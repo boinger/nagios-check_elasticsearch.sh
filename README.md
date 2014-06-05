@@ -35,8 +35,8 @@ check_elasticsearch.sh is a Nagios plugin to check the cluster status of elastic
           Just version info
 
 ###License###
-[BSD 2-clause](http://opensource.org/licenses/BSD-2-Clause)
-Copyright (c) 2014, Jeff Vier < jeff@jeffvier.com>
+[BSD 2-clause](http://opensource.org/licenses/BSD-2-Clause)\n
+Copyright (c) 2014, Jeff Vier < jeff@jeffvier.com>\n
 All rights reserved.
 
 ###Author###
