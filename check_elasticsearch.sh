@@ -49,7 +49,7 @@ Usage="Basic Usage:\n
       -H/--hostname)
          Defines the hostname. Default: $hostname
       -i/--initshards)
-         Maximum initializing_shards. Throws critical alert if over. Integer range (colon separated). Optional.
+         Maximum initializing_shards. Throws alert if over. Integer pair (colon separated warn:crit). Optional.
       -d/--datamin)
          Minimum data node count. Throws critical alert if not met. Integer. Optional.
       -m/--mastermin)
