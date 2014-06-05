@@ -57,7 +57,7 @@ Usage="Basic Usage:\n
       -n/--nodemin)
          Minimum total node count. Throws critical alert if not met. Integer. Optional.
       -P/--perdata)
-         Output perfdata.
+         Output perfdata. Optional.
       -p/--port)
          Defines the port. Default: $port
       -v)

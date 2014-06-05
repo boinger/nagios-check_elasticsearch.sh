@@ -21,7 +21,7 @@ check_elasticsearch.sh is a Nagios plugin to check the cluster status of elastic
       -n/--nodemin)
          Minimum total node count. Throws critical alert if not met. Integer. Optional.
       -P/--perdata)
-         Output perfdata.
+         Output perfdata. Optional.
       -p/--port)
          Defines the port. Default: 9200
       -v)
